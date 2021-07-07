@@ -6,11 +6,7 @@ body {
   display: block;
 }
 
-.label {
-  display: inline-block;
-  margin-bottom: 10px;
-}
-
+.label,
 .input {
   display: inline-block;
   margin-bottom: 10px;
